@@ -1,8 +1,8 @@
-# nodejs-express
+# Gitlab CI Demo using NodeJs Express app
 
-## Sample NodeJs Express app
+`npm install`
 
-###`npm install`
-###Running the app `DEBUG=myapp:* npm start`
-###Test `npm test`
+Running the app `DEBUG=myapp:* npm start`
+
+Test `npm test`
 
